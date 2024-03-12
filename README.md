@@ -19,8 +19,8 @@ Using Machine learning algorithm on the famous Titanic Disaster Dataset for Pred
  In this article, we will learn to predict the survival chances of the Titanic passengers using the given information about their sex, age, etc.
  > Visualization
 
-    Distribution Survivors and Deceased
+   Distribution Survivors and Deceased
     ![Distribution Survivors and Deceased](https://github.com/deepakkush02/Titanic-Survival-Prediction-Using-Machine-Learning/blob/main/Distribution%20Of%20Survivors%20and%20Deceased.png)
 
-    Survival Data Based on Gender
+   Survival Data Based on Gender
     ![](https://github.com/deepakkush02/Titanic-Survival-Prediction-Using-Machine-Learning/blob/main/Survival%20Data%20Based%20on%20Gender.png)

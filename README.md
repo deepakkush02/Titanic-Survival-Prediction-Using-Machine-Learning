@@ -24,3 +24,7 @@ Using Machine learning algorithm on the famous Titanic Disaster Dataset for Pred
 
    Survival Data Based on Gender
     ![](https://github.com/deepakkush02/Titanic-Survival-Prediction-Using-Machine-Learning/blob/main/Survival%20Data%20Based%20on%20Gender.png)
+
+> ### Prediction
+We are provided with the testing dataset on which we have to perform the prediction. To predict, we will pass the test dataset into our trained model and save it into a CSV file containing the information, passengerid and survival. PassengerId will be the passengerid of the passengers in the test data and the survival will column will be either 0 or 1.
+![](https://github.com/deepakkush02/Titanic-Survival-Prediction-Using-Machine-Learning/blob/main/Pred.png)
